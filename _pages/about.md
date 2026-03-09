@@ -19,7 +19,7 @@ redirect_from:
 # About Me
 I am Mridula Buragohain, a 2025 passout student from IIT Kharagpur. At IIT Kharagpur, I pursued my Integrated B.Tech. + M.Tech. (Dual degree) in Agricultural Systems Management with micro-specialization in Artificial Intelligence and its applications. I am currently working at MAARS Lab with Dr. Santosh Pitla at the University of Nebraska-Lincoln on the control systems for Unmanned Aerial Systems for Agricultural applications. Prior to this, I have worked under the guidance of Dr. Peeyush Soni in his lab at IIT Kharagpur during my undergraduate journey and both my Bachelor's and Master's thesis projects. I have also worked with Prof. Yu Jiang at the Cyber-Agricultural Intelligence and Robotics Lab [**CAIR**](https://cair.cals.cornell.edu/) at Cornell University as a research intern in 2025 (May-December), and with Dr. Jitendra Paliwal at the University of Manitoba for a summer internship in 2024.
 
-My research interests lie in robotics automation and smart sensing, and I am specifically interested in robotics and Vision integration for Agricultural and Food Automation and increasing the robustness and generalization capabilities of the autonomous robotic system method.
+My research interests lie in robotics, automation, and smart sensing, and I am specifically interested in robotics and Vision integration for Agricultural and Food Automation, and increasing the robustness and generalization capabilities of the autonomous robotic system method.
 
 In my free time, I love to play badminton and read books. Other than this, I also love traveling to new places, especially hills and mountains and also cities, for unique architecture.
 
@@ -31,12 +31,24 @@ In my free time, I love to play badminton and read books. Other than this, I als
 - *High-Throughput Phenotyping*
 
 # News
+- *2025.05*: &nbsp; (REU-TrACE) at Iowa State University 2025. 
 - *2024.05*: &nbsp; Cornell CALS Summer Research Scholar 2024. 
-- *2023.05*: &nbsp; Mitacs Summer Research Scholarship 2024.
+- *2023.05*: &nbsp; Mitacs Summer Research Scholarship 2023.
 - *2022.05*: &nbsp; Summer Research Internship at the University of Campinas.
 - *2022.05*: &nbsp; Summer Research Internship at Virginia Tech University. 
 
 # Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ Autonomous manipulation platform for tissue culture operation
+
+**Project** 
+-  Designed and integrated a hardware setup with RaspberryPi, RealSense camera, and manipulator arm; implemented ROS 2 MoveIt2 for autonomous transfer of callus during tissue culture operation,
+-  Developed callus detection algorithms, camera calibration, and collision safety controls using point cloud data to enhance manipulator accuracy.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
