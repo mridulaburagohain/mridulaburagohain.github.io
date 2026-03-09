@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a final year student at the Department of Agricultural and Food Engineering, IIT Kharagpur, pursuing my Integrated Mtech (5 Year Course) in Agricultural Systems Management with micro-specialization in Artificial intelligence and its applications. I am currently working with Prof. Yu Jiang on developing an autonomous manipulation system for tissue culture operations at the Cyber-Agricultural Intelligence and Robotics Lab [**CAIR**](https://cair.cals.cornell.edu/) lab at Cornell University. 
+I am Mridula Buragohain, a 2025 passout student from IIT Kharagpur. At IIT Kharagpur, I pursued my Integrated B.Tech. + M.Tech. (Dual degree) in Agricultural Systems Management with micro-specialization in Artificial Intelligence and its applications. I am currently working at MAARS Lab with Dr. Santosh Pitla at the University of Nebraska-Lincoln on the control systems for Unmanned Aerial Systems for Agricultural applications. Prior to this, I have worked under the guidance of Dr. Peeyush Soni in his lab at IIT Kharagpur during my undergraduate journey and both my Bachelor's and Master's thesis projects. I have also worked with Prof. Yu Jiang at the Cyber-Agricultural Intelligence and Robotics Lab [**CAIR**](https://cair.cals.cornell.edu/) at Cornell University as a research intern in 2025 (May-December), and with Dr. Jitendra Paliwal at the University of Manitoba for a summer internship in 2024.
 
 My research interests lie in robotics automation and smart sensing, and I am specifically interested in robotics and Vision integration for Agricultural and Food Automation and increasing the robustness and generalization capabilities of the autonomous robotic system method.
 
