@@ -41,8 +41,7 @@ In my free time, I love to play badminton and read books. Other than this, I als
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/Vicon_delta3.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- Autonomous manipulation platform for tissue culture operation
-
+ Autonomous Control for Agricultural Spraying UAVs
 **Project** 
 -  Developed autonomous flight planning algorithms for agricultural spraying drones. Also worked on pump integration and variable spraying in custom-built ArduPilot-based UAVs.
 -  Worked with the Viscon system to track and validate our control algorithms. Worked with no-GPS, mocap-simulated coordinates for localization.
