@@ -38,14 +38,15 @@ In my free time, I love to play badminton and read books. Other than this, I als
 - *2022.05*: &nbsp; Summer Research Internship at Virginia Tech University. 
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  Autonomous manipulation platform for tissue culture operation
 
 **Project** 
--  Designed and integrated a hardware setup with RaspberryPi, RealSense camera, and manipulator arm; implemented ROS 2 MoveIt2 for autonomous transfer of callus during tissue culture operation,
--  Developed callus detection algorithms, camera calibration, and collision safety controls using point cloud data to enhance manipulator accuracy.
+-  Developed autonomous flight planning algorithms for agricultural spraying drones. Also worked on pump integration and variable spraying in custom-built ArduPilot-based UAVs.
+-  Worked with the Viscon system to track and validate our control algorithms. Worked with no-GPS, mocap-simulated coordinates for localization.
+-  Also worked with RTK-based control in outdoor environments and comparison for different precise location systems.
 </div>
 </div>
 
